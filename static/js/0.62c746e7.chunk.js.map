@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/charList/someFunc.js"],"names":["logger","console","log","secondLog"],"mappings":"iGAAO,SAASA,IACZC,QAAQC,IAAI,eAGT,SAASC,IACZF,QAAQC,IAAI,OALhB","file":"static/js/0.62c746e7.chunk.js","sourcesContent":["export function logger() {\n    console.log('hello world');\n}\n\nexport function secondLog() {\n    console.log('2nd');\n}"],"sourceRoot":""}
