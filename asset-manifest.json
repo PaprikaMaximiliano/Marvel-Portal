@@ -5,13 +5,13 @@
     "main.css": "/Marvel-Portal/static/css/main.69a9abf3.chunk.css",
     "main.js": "/Marvel-Portal/static/js/main.dc9b3356.chunk.js",
     "main.js.map": "/Marvel-Portal/static/js/main.dc9b3356.chunk.js.map",
-    "runtime-main.js": "/Marvel-Portal/static/js/runtime-main.65f462f0.js",
-    "runtime-main.js.map": "/Marvel-Portal/static/js/runtime-main.65f462f0.js.map",
+    "runtime-main.js": "/Marvel-Portal/static/js/runtime-main.3b09f237.js",
+    "runtime-main.js.map": "/Marvel-Portal/static/js/runtime-main.3b09f237.js.map",
     "static/js/3.245d8500.chunk.js": "/Marvel-Portal/static/js/3.245d8500.chunk.js",
     "static/js/3.245d8500.chunk.js.map": "/Marvel-Portal/static/js/3.245d8500.chunk.js.map",
     "static/css/4.6f619b6a.chunk.css": "/Marvel-Portal/static/css/4.6f619b6a.chunk.css",
-    "static/js/4.bb8b8601.chunk.js": "/Marvel-Portal/static/js/4.bb8b8601.chunk.js",
-    "static/js/4.bb8b8601.chunk.js.map": "/Marvel-Portal/static/js/4.bb8b8601.chunk.js.map",
+    "static/js/4.9aa497fa.chunk.js": "/Marvel-Portal/static/js/4.9aa497fa.chunk.js",
+    "static/js/4.9aa497fa.chunk.js.map": "/Marvel-Portal/static/js/4.9aa497fa.chunk.js.map",
     "static/css/5.f6476972.chunk.css": "/Marvel-Portal/static/css/5.f6476972.chunk.css",
     "static/js/5.0f69fc14.chunk.js": "/Marvel-Portal/static/js/5.0f69fc14.chunk.js",
     "static/js/5.0f69fc14.chunk.js.map": "/Marvel-Portal/static/js/5.0f69fc14.chunk.js.map",
@@ -35,7 +35,7 @@
     "static/media/vision.067d4ae1.png": "/Marvel-Portal/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.65f462f0.js",
+    "static/js/runtime-main.3b09f237.js",
     "static/js/3.245d8500.chunk.js",
     "static/css/main.69a9abf3.chunk.css",
     "static/js/main.dc9b3356.chunk.js"
